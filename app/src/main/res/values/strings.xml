@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">NCC Mobile</string>
+    <string name="departments">Academic Departments</string>
+    <string name="campus_services">Campus Services</string>
+    <string name="student_services">Student Services</string>
+    <string name="location"><b>Location: </b></string>
+    <string name="phone"><b>Phone: </b></string>
+    <string name="fax"><b>Fax: </b></string>
+    <string name="chairperson"><b>Chairperson: </b></string>
+    <string name="email"><b>Email: </b></string>
+    <string name="website"><b>VISIT THE WEBSITE</b></string>
+
+    <string-array name="main_array">
+        <item>Academic Departments</item>
+        <item>Campus Services</item>
+        <item>Student Services</item>
+        <item>Dining</item>
+        <item>Bus Schedules</item>
+        <item>Campus Map</item>
+    </string-array>
+
+    <string name="bus_header">NICE Bus Schedules</string>
+
+    <string-array name="bus_array">
+        <item>n6X</item>
+        <item>n16</item>
+        <item>n35</item>
+        <item>n43</item>
+        <item>n45</item>
+        <item>n51</item>
+    </string-array>
+    <string-array name="url_array">
+        <item>http://www.nicebus.com/_meta/routes_pdf/NICE-n6_MapSchedule.pdf</item>
+        <item>http://www.nicebus.com/_meta/routes_pdf/NICE-n16_MapSchedule.pdf</item>
+        <item>http://www.nicebus.com/_meta/routes_pdf/NICE-n35_MapSchedule.pdf</item>
+        <item>http://www.nicebus.com/_meta/routes_pdf/NICE-n43_MapSchedule.pdf</item>
+        <item>http://www.nicebus.com/_meta/routes_pdf/NICE-n45_MapSchedule.pdf</item>
+        <item>http://www.nicebus.com/_meta/routes_pdf/NICE-n51_MapSchedule.pdf</item>
+    </string-array>
+
+    <string name="dining_header">Dining</string>
+    <string name="dining_title1">Top Flight Food Court</string>
+    <string name="dining_blurb1">located in the lower level of the CCB Building—includes tasty options like Taco Bell, Pizza Hut, and Nathans. The food court is open Monday through Thursday, 7 a.m. to 7:30 p.m., and Friday, 7 a.m. to 3:30 p.m.</string>
+    <string name="dining_title2">Treat Street Convenience Store</string>
+    <string name="dining_blurb2">located at the entrance of B Cluster—is a great place to grab a cup of coffee or a quick sandwich or salad. It’s open Monday through Thursday, 7 a.m. to 9:30 p.m.; Friday, 7 a.m. to 4 p.m.; and weekends from 8 a.m. to 4 p.m.</string>
+    <string name="dining_title3">Treat Street Too Convenience Store</string>
+    <string name="dining_blurb3">located in the rear of V Building—also offers delicious coffee, sandwiches, salads, and more. It’s open Monday through Thursday, 7 a.m. to 6 p.m. and Friday from 7 a.m. to 3:30 p.m.</string>
+    <string name="action_mycar">I parked my car here!</string>
+
+    <string-array name="map_options">
+        <item>Academic Buildings</item>
+        <item>Bus Stops</item>
+        <item>Parking Lots</item>
+        <item>Campus and Student Services</item>
+        <item>Dining Spots</item>
+        <item>Where\'s My Car?</item>
+    </string-array>
+
+</resources>

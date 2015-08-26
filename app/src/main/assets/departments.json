@@ -1,0 +1,687 @@
+{
+"departments" : [
+	{
+		"name" : "Accounting and Business",
+		"location" : "Cluster A - 3020",
+		"phone" : "516.572.7544",
+		"fax" : "516.572.7891",
+		"chairperson" : "Prof. Lynn Mazzola",
+		"email" : "accounting-business@ncc.edu",
+		"website" : "programsandcourses/academic_departments/accountingandbusiness/",
+		"extra" : "Accounting & Business Learning Center",
+		"extra_info" : [
+			"A-309 - 516.572.7479"
+		]
+	},
+	{
+		"name" : "Administrative Business Technology",
+		"location" : "Cluster A - 2023",
+		"phone" : "516.572.7288",
+		"fax" : "516.572.7867",
+		"chairperson" : "Prof. Noreen Lowey",
+		"email" : "Noreen.Lowey@ncc.edu",
+		"website" : "programsandcourses/academic_departments/administrative_business_technology/",
+		"extra" : "Learning Center",
+		"extra_info" : [
+			"A-115"
+		]
+	},
+	{
+		"name" : "Africana Studies",
+		"location" : "Bldg. H - 124",
+		"phone" : "516.572.7157",
+		"fax" : "516.572.9870",
+		"chairperson" : "Prof. Ken Jenkins",
+		"email" : "africana.studies@ncc.edu",
+		"website" : "programsandcourses/academic_departments/africanastudies/",
+		"extra" : "",
+		"extra_info" : [
+			""
+		]
+	},
+	{
+		"name" : "Allied Health Sciences",
+		"location" : "Cluster E - 2225",
+		"phone" : "516.572.9640",
+		"fax" : "516.572.7565",
+		"chairperson" : "Dr. Gary Klinger",
+		"email" : "alliedhealthsciences@ncc.edu",
+		"website" : "programsandcourses/academic_departments/alliedhealthsciences/",
+		"extra" : "",
+		"extra_info" : [
+			""
+		]
+	},
+	{
+		"name" : "Art",
+		"location" : "Building G - 179",
+		"phone" : "516.572.7162",
+		"fax" : "516.572.9673",
+		"chairperson" : "Susan Dooley",
+		"email" : "artoff@ncc.edu",
+		"website" : "programsandcourses/academic_departments/art/",
+		"extra" : "",
+		"extra_info" : [
+			""
+		]
+	},
+	{
+		"name" : "Biology",
+		"location" : "Cluster F - 2230",
+		"phone" : "516.572.7575",
+		"fax" : "516.572.7762",
+		"chairperson" : "Prof. Stephen J. Beck",
+		"email" : "biology@ncc.edu",
+		"website" : "programsandcourses/academic_departments/biology/",
+		"extra" : "Biology Learning Center",
+		"extra_info" : [
+			"F-107 - 516.572.7575"
+		]
+	},
+	{
+		"name" : "Chemistry",
+		"location" : "Life Sciences Building",
+		"phone" : "516.572.7580",
+		"fax" : "516.572.0695",
+		"chairperson" : "Dr. Donna Eilerman",
+		"email" : "chemistry@ncc.edu",
+		"website" : "programsandcourses/academic_departments/chemistry/",
+		"extra" : "Chemistry Learning Center",
+		"extra_info" : [
+			"LFS-124 - 516.572.9976"
+		]
+	},
+	{
+		"name" : "Communications",
+		"location" : "Bldg. H - 203",
+		"phone" : "516.572.7170",
+		"fax" : "516.572.7769",
+		"chairperson" : "Jill Burgreen",
+		"email" : "communications@ncc.edu",
+		"website" : "programsandcourses/academic_departments/communications/",
+		"extra" : "Lab & Help Center",
+		"extra_info" : [
+			"F-117 - 516.572.9671"
+		]
+	},
+	{
+		"name" : "Criminal Justice",
+		"location" : "Bldg. G - 157",
+		"phone" : "516.572.7179",
+		"fax" : "516.572.8175",
+		"chairperson" : "Prof. Robert Costello",
+		"email" : "criminaljustice@ncc.edu",
+		"website" : "programsandcourses/academic_departments/criminaljustice/",
+		"extra" : "",
+		"extra_info" : [
+			""
+		]
+	},
+	{
+		"name" : "Economics & Finance",
+		"location" : "Bldg. G - 155",
+		"phone" : "516.572.7181",
+		"fax" : "516.572.9873",
+		"chairperson" : "Prof. Darleen Braunshweiger",
+		"email" : "economics-finance@ncc.edu",
+		"website" : "programsandcourses/academic_departments/economicsfinance/",
+		"extra" : "",
+		"extra_info" : [
+			""
+		]
+	},
+	{
+		"name" : "Engineering, Physics & Technology",
+		"location" : "Cluster D - 2087",
+		"phone" : "516.572.7272",
+		"fax" : "516.572.7471",
+		"chairperson" : "Prof. Craig Capria",
+		"email" : "engineering-physics@ncc.edu",
+		"website" : "programsandcourses/academic_departments/engineering_physics_technology/",
+		"extra" : "Lab/Help Centers",
+		"extra_info" : [
+			"Engineering Lab/Help Center: D-114 516.572.7035",
+			"Physics Lab/Help Center: D-218 - 516.572.7272"
+		]
+	},
+	{
+		"name" : "English",
+		"location" : "Bradley Hall - 13",
+		"phone" : "516.572.7185",
+		"fax" : "516.572.8134",
+		"chairperson" : "Prof. Bruce Urquhart",
+		"email" : "english@ncc.edu",
+		"website" : "programsandcourses/academic_departments/english/",
+		"extra" : "Writing Center",
+		"extra_info" : [
+			"Bradley Hall Ballroom - 516.572.7195",
+			"Library L233 - 516.572.3595"
+		]
+	},
+	{
+		"name" : "Foreign Languages",
+		"location" : "Nassau Hall - 300",
+		"phone" : "516.572.7414",
+		"fax" : "516.572.8173",
+		"chairperson" : "Dr. Vladimir Konovaliouk",
+		"email" : "foreignlanguages@ncc.edu",
+		"website" : "programsandcourses/academic_departments/foreign_languages/",
+		"extra" : "Foreign Language Help Center",
+		"extra_info" : [
+			"M-15 - 516.572.7416"
+		]
+	},
+	{
+		"name" : "Health, Physical Education & Recreation",
+		"location" : "Physical Education - 218",
+		"phone" : "516.572.7518",
+		"fax" : "516.572.9857",
+		"chairperson" : "Prof. Edward Mack",
+		"email" : "health-physicaleducation@ncc.edu",
+		"website" : "programsandcourses/academic_departments/health_physical_education/",
+		"extra" : "",
+		"extra_info" : [
+			""
+		]
+	},
+	{
+		"name" : "History, Political Science & Geography",
+		"location" : "Bldg. G - 257",
+		"phone" : "516.572.7422",
+		"fax" : "516.572.7173",
+		"chairperson" : "Prof. Philip Y. Nicholson",
+		"email" : "history-politicalscience@ncc.edu",
+		"website" : "programsandcourses/academic_departments/history_political_science_geography/",
+		"extra" : "",
+		"extra_info" : [
+			""
+		]
+	},
+	{
+		"name" : "Hospitality & Business",
+		"location" : "Bldg. K - 14",
+		"phone" : "516.572.7344",
+		"fax" : "516.572.9739",
+		"chairperson" : "Prof. Anne Cubeta",
+		"email" : "hospitalitybusiness@ncc.edu",
+		"website" : "programsandcourses/academic_departments/hospitality_business/",
+		"extra" : "Lab Help Centers",
+		"extra_info" : [
+			"K - 516.572.7344"
+		]
+	},
+	{
+		"name" : "Legal Studies",
+		"location" : "Cluster A - 3015",
+		"phone" : "516.572.7626",
+		"fax" : "516.572.9747",
+		"chairperson" : "Prof. Joan Alexander",
+		"email" : "legalstudies@ncc.edu",
+		"website" : "programsandcourses/academic_departments/legalstudies/",
+		"extra" : "",
+		"extra_info" : [
+			""
+		]
+	},
+	{
+		"name" : "Marketing, Retailing, Fashion Design & Interior Design",
+		"location" : "Cluster B - 2037",
+		"phone" : "516.572.7588",
+		"fax" : "516.572.9792",
+		"chairperson" : "Prof. Pat Lupino",
+		"email" : "marketing-retailing@ncc.edu",
+		"website" : "programsandcourses/academic_departments/marketingretailingfashion/",
+		"extra" : "",
+		"extra_info" : [
+			""
+		]
+	},
+	{
+		"name" : "Mathematics, Computer Science & Information Technology",
+		"location" : "Cluster B - 3028",
+		"phone" : "516.572.7383",
+		"fax" : "516.572.9715",
+		"chairperson" : "Prof. Carmine DeSanto",
+		"email" : "matcmp@ncc.edu",
+		"website" : "programsandcourses/academic_departments/mathematicscomputerscienceinformationtechnology/",
+		"extra" : "Lab/Help Centers",
+		"extra_info": [
+			"Math Center: B-130 - 516.572.7394",
+			"Computer Learning Center: B-227 - 516.572.7379",
+			"Computer Learning Center: B-225 - 516.572.7379"
+		]
+	},
+	{
+		"name" : "Mortuary Science",
+		"location" : "357 East Road",
+		"phone" : "516.572.7277",
+		"fax" : "516.572.0626",
+		"chairperson" : "Michael Mastellone",
+		"email" : "mortuaryscience@ncc.edu",
+		"website" : "programsandcourses/academic_departments/mortuary_science/",
+		"extra" : "",
+		"extra_info" : [
+			""
+		]
+	},
+	{
+		"name" : "Music",
+		"location" : "Bldg. H - 222",
+		"phone" : "516.572.7447",
+		"fax" : "516.572.9791",
+		"chairperson" : "Prof. Jeffrey Fox",
+		"email" : "music@ncc.edu",
+		"website" : "programsandcourses/academic_departments/music/",
+		"extra" : "Facilities",
+		"extra_info" : [
+			"Piano Lab: Z",
+			"Tutorial Center: H-110 - 516.572.7447",
+			"Sound Recording Lab: H-114 - 516.572.7447"
+		]
+	},
+	{
+		"name" : "Nursing",
+		"location" : "Life Sciences Building, 319",
+		"phone" : "516.572.9630",
+		"fax" : "516.572.0697",
+		"chairperson" : "Dr. Thomas B. Rich",
+		"email" : "nursing@ncc.edu",
+		"website" : "programsandcourses/academic_departments/nursing/",
+		"extra" : "Learning Center",
+		"extra_info" : [
+			"LFS-323 - 516.572.9630 x-26127"
+		]
+	},
+	{
+		"name" : "Philosophy",
+		"location" : "Nassau Hall - 217",
+		"phone" : "516.572.7450",
+		"fax" : "516.572.9856",
+		"chairperson" : "Prof. Mark Halfon",
+		"email" : "philosophy@ncc.edu",
+		"website" : "programsandcourses/academic_departments/philosophy/",
+		"extra" : "",
+		"extra_info" : [
+			""
+		]
+	},
+	{
+		"name" : "Physical Sciences",
+		"location" : "Cluster D - 3090",
+		"phone" : "516.572.7278",
+		"fax" : "516.572.0651",
+		"chairperson" : "Prof. Gregory Lehenbauer",
+		"email" : "physicalsciences@ncc.edu",
+		"website" : "programsandcourses/academic_departments/physical_sciences/",
+		"extra" : "Lab/Help Center",
+		"extra_info" : [
+			"C-216 - 516.572.8095",
+			"C-310 - 516.572.7282"
+		]
+	},
+	{
+		"name" : "Psychology",
+		"location" : "Bldg. G - 355",
+		"phone" : "516.572.7458",
+		"fax" : "516.572.9790",
+		"chairperson" : "Prof. Sydney Hochman",
+		"email" : "psychology@ncc.edu",
+		"website" : "programsandcourses/academic_departments/psychology/",
+		"extra" : "",
+		"extra_info" : [
+			""
+		]
+	},
+	{
+		"name" : "Reading Basic Education",
+		"location" : "North Hall - 205",
+		"phone" : "516.572.7464",
+		"fax" : "516.572.8966",
+		"chairperson" : "Dr. Christine Berg",
+		"email" : "reading-basiceducation@ncc.edu",
+		"website" : "programsandcourses/academic_departments/reading_basic_education/",
+		"extra" : "Lab/Help Centers",
+		"extra_info" : [
+			"Reading 001 Help Center: Building M, Room 207; 516.572.7465",
+			"Reading 002 Help Center: Building M, Room 201; 516.572.7465",
+			"BEP Reading/Writing Help Center: V-110 - 516.572.8979",
+			"BEP Math Help Center: V-112 - 516.572.8046",
+			"BEP Students with Disabilities Help Center: V-111 - 516.572.8975",
+			"ESL Reading Help Center: M-209 - 516.572.7465"
+		]
+	},
+	{
+		"name" : "Sociology",
+		"location" : "Bldg. G - 357",
+		"phone" : "516-572-7452",
+		"fax" : "516-572-7257",
+		"chairperson" : "Prof. Lyle Hallowell",
+		"email" : "sociology@ncc.edu",
+		"website" : "programsandcourses/academic_departments/sociology_anthropology_socialwork/",
+		"extra" : "",
+		"extra_info" : [
+			""
+		]
+	},
+	{
+		"name" : "Student Personnel Services",
+		"location" : "Nassau Hall - 11",
+		"phone" : "516.572.7506",
+		"fax" : "516.572.9716",
+		"chairperson" : "Prof. Genette Alvarez-Ortiz",
+		"email" : "studentpersonnelservices@ncc.edu",
+		"website" : "programsandcourses/academic_departments/student_personnel_services/",
+		"extra" : "",
+		"extra_info" : [
+			""
+		]
+	},
+	{
+		"name" : "Theatre & Dance",
+		"location" : "Building W",
+		"phone" : "516.572.7508",
+		"fax" : "516.572.9752",
+		"chairperson" : "Prof. Victor Abravaya",
+		"email" : "victor.abravaya@ncc.edu",
+		"website" : "programsandcourses/academic_departments/theatre_dance/",
+		"extra" : "",
+		"extra_info" : [
+			""
+		]
+	}
+],
+"campus_services" : [
+	{
+		"name" : "Bookstore",
+		"location" : "Bookstore",
+		"phone" : "516.222.7066 or 516.572.7168",
+		"fax" : "516-222-0501",
+		"email" : "",
+		"website" : "campusservices/bookstore.shtml",
+		"extra" : "Hours",
+		"extra_info" : [
+			"Monday: 9:00 AM - 7:00 PM",
+			"Tuesday: 9:00 AM - 5:00 PM",
+			"Wednesday: 9:00 AM - 5:00 PM",
+			"Thursday: 9:00 AM - 7:00 PM",
+			"Friday: 9:00 AM - 2:00 PM",
+			"Saturday: CLOSED",
+			"Sunday: CLOSED"
+		]
+	},
+	{
+		"name": "Career Services & The Career Counseling Center",
+		"location" : "Nassau Hall - 14",
+		"phone" : "516.572.7696",
+		"fax" : "516.572.7695",
+		"email" : "Constance.Egelman@ncc.edu",
+		"website" : "campusservices/career_counseling/",
+		"extra" : "Hours",
+		"extra_info" : [
+			"Monday - Friday: 8:00 AM - 4:45 PM"
+		]
+	},
+	{
+		"name" : "Center for Educational & Retention Counseling",
+		"location" : "Nassau Hall - 19",
+		"phone" : "516.572.7141",
+		"fax" : "516.572.0674",
+		"email" : "",
+		"website" : "campusservices/educational_counseling/",
+		"extra" : "Hours",
+		"extra_info" : [
+			"Monday - Friday: 8:00 AM - 4:45 PM"
+		]
+	},
+	{
+		"name" : "Center for Service Learning",
+		"location" : "",
+		"phone" : "516.572.9775",
+		"fax" : "",
+		"email" : "Evangeline.Manjares@ncc.edu",
+		"website" : "campusservices/servicelearning.shtml",
+		"extra" : "",
+		"extra_info" : [
+			""
+		]
+	},
+	{
+		"name" : "Center for Students with Disabilities",
+		"location" : "Building U",
+		"phone" : "516.572.7241, TTY: 516.572.7617",
+		"fax" : "516.572.0974",
+		"email" : "",
+		"website" : "campusservices/disabilities_services/",
+		"extra" : "Hours",
+		"extra_info" : [
+			"Monday - Friday: 8:00 AM - 5:00 PM"
+		]
+	},
+	{
+		"name" : "Center for Veterans Affairs",
+		"location" : "",
+		"phone" : "516.572.9775",
+		"fax" : "",
+		"email" : "Evangeline.Manjares@ncc.edu",
+		"website" : "campusservices/centerforveteransaffairs.shtml",
+		"extra" : "",
+		"extra_info" : [
+			""
+		]
+	},
+	{
+		"name" : "Childcare",
+		"location" : "Children's Greenhouse",
+		"phone" : "516.572.7614",
+		"fax" : "516.228.8104",
+		"email" : "Janet.Walsh@ncc.edu",
+		"website" : "campusservices/childcare/",
+		"extra" : "Hours",
+		"extra_info" : [
+			"Monday - Friday: 7:15 AM - 5:30 PM"
+		]
+	},
+	{
+		"name" : "Job Placement",
+		"location" : "Nassau Hall - 39",
+		"phone" : "516.572.7132",
+		"fax" : "516.572.7820",
+		"email" : "",
+		"website" : "campusservices/jobplacement/default.shtml",
+		"extra" : "Hours",
+		"extra_info" : [
+			"Monday - Thursday: 8 AM - 5 PM",
+			"Friday: 9 AM - 4:45 PM"
+		]
+	},
+	{
+		"name" : "Language Immersion at NCC",
+		"location" : "North Annex - 109",
+		"phone" : "516.573.0165 or 516.573.0171",
+		"fax" : "",
+		"email" : "lincc@ncc.edu",
+		"website" : "campusservices/lincc.shtml",
+		"extra" : "",
+		"extra_info" : [
+			""
+		]
+	},
+	{
+		"name" : "Parking & Safety",
+		"location" : "College Center - 141 and Public Safety Office",
+		"phone" : "516.572.7100, Emergency: 516.572.7111",
+		"fax" : "516.572.7494",
+		"email" : "publicsafety@ncc.edu",
+		"website" : "campusservices/parkingandsafety/",
+		"extra" : "Hours",
+		"extra_info" : [
+			"24 Hours, 7 Days a Week"
+		]
+	},
+	{
+		"name" : "Psychological Counseling Center",
+		"location" : "Nassau Hall - 9",
+		"phone" : "516.572.7698, Emergencies: 516.572.7111",
+		"fax" : "",
+		"email" : "",
+		"website" : "campusservices/psychological_counseling/",
+		"extra" : "Hours",
+		"extra_info" : [
+			"Mondays - Fridays: 8:00 AM - 5:00 PM"
+		]
+	},
+	{
+		"name" : "Technology & Computing",
+		"location" : "Library - First Floor & Building G - 145/149",
+		"phone" : "516.572.7620 or 516.572.9662",
+		"fax" : "",
+		"email" : "",
+		"website" : "campusservices/technologyandcomputing/",
+		"extra" : "Hours",
+		"extra_info" : [
+			"Library:",
+			"Mondays – Thursdays: 8:00 AM – 9:30 PM",
+			"Fridays: 8:00 AM – 8:00 PM",
+			"Saturdays: 10:00 AM – 4:30 PM",
+			"Sundays: 12:00 PM – 4:30 PM",
+			"Building G:",
+			"Mondays – Thursdays: 8:00 AM – 4:15 PM",
+			"Friday: 8:00 AM – 12:45 PM"
+		]
+	},
+	{
+		"name" : "Transfer Counseling",
+		"location" : "",
+		"phone" : "516.572.7127 or 516.572.7128",
+		"fax" : "",
+		"email" : "Hoytj@ncc.edu or Molly.Ludmar@ncc.edu",
+		"website" : "campusservices/transfer_counseling/",
+		"extra" : "Hours",
+		"extra_info" : [
+			"Mondays - Fridays: 8:00 AM ‑ 5:00 PM"
+		]
+	},
+	{
+		"name" : "Women's Resources Center",
+		"location" : "",
+		"phone" : "516.572.7698 or 516.572.7128",
+		"fax" : "",
+		"email" : "Jane.Segadelli@ncc.edu or Molly.Ludmar@ncc.edu",
+		"website" : "campusservices/womenscenter/",
+		"extra" : "",
+		"extra_info" : [
+			""
+		]
+	}
+],
+"administration" : [
+	{
+		"name" : "Academic Advisement Center",
+		"location" : "Building U",
+		"phone" : "516.572.7436 or 516.572.7118",
+		"fax" : "516.572.0610",
+		"email" : "advisement@ncc.edu",
+		"website" : "admissions/academicadvisement/default.shtml",
+		"extra" : "Hours",
+		"extra_info" : [
+			"http://www.ncc.edu/admissions/academicadvisement/default.shtml"
+		]
+	},	
+	{
+		"name" : "Admissions",
+		"location" : "Tower - 2nd Floor",
+		"phone" : "516.572.7346",
+		"fax" : "516.572.9743",
+		"email" : "admissions@ncc.edu",
+		"website" : "admissions/",
+		"extra" : "Hours",
+		"extra_info" : [
+			"http://www.ncc.edu/campusservices/servicehours.shtml"
+		]
+	},
+	{
+		"name" : "Dean of Students",
+		"location" : "College Center Building - 312",
+		"phone" : "516.572.7376 or 516.572.7134 x-7135",
+		"fax" : "",
+		"email" : "",
+		"website" : "campusservices/dean_of_students/default.shtml",
+		"extra" : "Hours",
+		"extra_info" : [
+			"Monday - Thursday: 8:30 AM - 4:30 PM"
+		]
+	},
+	{
+		"name" : "Financial Aid",
+		"location" : "Tower - 3rd Floor",
+		"phone" : "516.572.7396",
+		"fax" : "516.572.7642",
+		"email" : "FinancialAid@ncc.edu",
+		"website" : "admissions/financialaid/",
+		"extra" : "Hours",
+		"extra_info" : [
+			"http://www.ncc.edu/campusservices/servicehours.shtml"
+		]
+	},
+	{
+		"name" : "Information Services",
+		"location" : "",
+		"phone" : "516.572.7501",
+		"fax" : "516.572.3557",
+		"email" : "InformationSerivces@ncc.edu",
+		"website" : "campusservices/informationservices.shtml",
+		"extra" : "Hours",
+		"extra_info" : [
+			"http://www.ncc.edu/campusservices/servicehours.shtml"
+		]
+	},
+	{
+		"name" : "Office of the Bursar",
+		"location" : "Cluster C - First Floor",
+		"phone" : "516.572.7325",
+		"fax" : "516.572.8132",
+		"email" : "bursar@ncc.edu",
+		"website" : "admissions/tuitioncosts/bursar.shtml",
+		"extra" : "Hours",
+		"extra_info" : [
+			"http://www.ncc.edu/campusservices/servicehours.shtml"
+		]
+	},
+	{
+		"name" : "Placement Testing",
+		"location" : "Building U",
+		"phone" : "516.572.7780",
+		"fax" : "516.572.9925",
+		"email" : "PlacementTesting@ncc.edu",
+		"website" : "admissions/placementtesting/",
+		"extra" : "Hours",
+		"extra_info" : [
+			"Monday - Friday: 9:00 AM - 4:30 PM"
+		]
+	},
+	{
+		"name" : "Registrar",
+		"location" : "C Cluster - First Floor",
+		"phone" : "516.572.7131",
+		"fax" : "516.572.9975",
+		"email" : "OfficeOfRegistrar@ncc.edu",
+		"website" : "admissions/registrar/",
+		"extra" : "Hours",
+		"extra_info" : [
+			"http://www.ncc.edu/campusservices/servicehours.shtml"
+		]
+	},
+	{
+		"name" : "Student Health Services",
+		"location" : "Cluster C - 1st  FLOOR",
+		"phone" : "516.572.7123",
+		"fax" : "516.572.9637",
+		"email" : "HealthOffice@ncc.edu",
+		"website" : "campusservices/health_services/",
+		"extra" : "Hours",
+		"extra_info" : [
+			"Monday - Friday: 8:00 AM - 3:45 PM"
+		]
+	}
+]
+}
